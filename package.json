@@ -6,9 +6,9 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aam229/universal-redux-plugins.git"
+    "url": "git+https://github.com/aam229/universal-redux-plugin-redux-logger.git"
   },
-  "homepage": "git+https://github.com/aam229/universal-redux-plugins/univeral-redux-plugin-redux-logger",
+  "homepage": "git+https://github.com/aam229/universal-redux-plugin-redux-logger",
   "main": "lib/index.js",
   "scripts": {
     "postinstall": "npm run compile",
@@ -42,6 +42,6 @@
     "npm": ">=3.3.12"
   },
   "bugs": {
-    "url": "https://github.com/aam229/universal-redux-plugins/issues"
+    "url": "https://github.com/aam229/universal-redux-plugin-redux-logger/issues"
   }
 }
